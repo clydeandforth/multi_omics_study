@@ -1,0 +1,993 @@
+>Gibb_00001 Oligopeptide transport system permease protein OppB
+>Gibb_00006 Thymidine kinase
+>Gibb_00007 DNA-binding protein H-NS
+>Gibb_00024 Putative NAD(P)H nitroreductase YdjA
+>Gibb_00027 Peroxyureidoacrylate/ureidoacrylate amidohydrolase RutB
+>Gibb_00031 Putative glucose-6-phosphate 1-epimerase
+>Gibb_00036 hypothetical protein
+>Gibb_00039 Phage holin family (Lysis protein S)
+>Gibb_00042 Inner membrane protein YagU
+>Gibb_00045 putative HTH-type transcriptional regulator YdfH
+>Gibb_00047 Glutamine transport ATP-binding protein GlnQ
+>Gibb_00051 Alkanal monooxygenase alpha chain
+>Gibb_00058 Glutathione import ATP-binding protein GsiA
+>Gibb_00061 hypothetical protein
+>Gibb_00083 KHG/KDPG aldolase
+>Gibb_00107 Arginine--tRNA ligase
+>Gibb_00111 Putative ribosomal N-acetyltransferase YdaF
+>Gibb_00116 putative phosphatase YcdX
+>Gibb_00117 Glyoxylate/hydroxypyruvate reductase A
+>Gibb_00118 HTH-type transcriptional regulator LutR
+>Gibb_00119 Uronate isomerase
+>Gibb_00120 Polyol:NADP oxidoreductase
+>Gibb_00131 Release factor glutamine methyltransferase
+>Gibb_00153 putative formaldehyde dehydrogenase AdhA
+>Gibb_00165 Glutathione S-transferase GstB
+>Gibb_00171 Bicyclomycin resistance protein
+>Gibb_00177 High frequency lysogenization protein HflD
+>Gibb_00178 Adenylosuccinate lyase
+>Gibb_00180 putative HTH-type transcriptional regulator YegW
+>Gibb_00189 Spermidine/putrescine import ATP-binding protein PotA
+>Gibb_00206 HIT-like protein
+>Gibb_00216 hypothetical protein
+>Gibb_00227 3-oxoacyl-[acyl-carrier-protein] reductase FabG
+>Gibb_00254 lipoprotein
+>Gibb_00257 Glucans biosynthesis protein C
+>Gibb_00263 Mannose-1-phosphate guanylyltransferase RfbM
+>Gibb_00264 hypothetical protein
+>Gibb_00281 putative HTH-type transcriptional regulator YidP
+>Gibb_00292 Dibenzothiophene desulfurization enzyme C
+>Gibb_00306 2-(5''-triphosphoribosyl)-3'-dephosphocoenzyme-A synthase
+>Gibb_00316 HTH-type transcriptional regulator DmlR
+>Gibb_00317 SnoaL-like domain protein
+>Gibb_00318 Putative oxidoreductase SadH
+>Gibb_00319 2,3-dimethylmalate lyase
+>Gibb_00320 D-galactonate transporter
+>Gibb_00321 Propionate catabolism operon regulatory protein
+>Gibb_00322 Formyl-coenzyme A transferase
+>Gibb_00323 Hydroxymethylglutaryl-CoA lyase YngG
+>Gibb_00324 putative glucarate transporter
+>Gibb_00331 Type IV secretion system protein virB4
+>Gibb_00337 Type IV secretion system protein virB9 precursor
+>Gibb_00338 Type IV secretion system protein virB10
+>Gibb_00339 Type IV secretion system protein VirB11
+>Gibb_00340 Lipoprotein LpqB
+>Gibb_00341 hypothetical protein
+>Gibb_00342 Sulfoacetaldehyde reductase
+>Gibb_00343 HTH-type transcriptional regulator RutR
+>Gibb_00344 Quinone oxidoreductase 1
+>Gibb_00352 DNA primase TraC
+>Gibb_00354 Transposase
+>Gibb_00357 NACHT domain protein
+>Gibb_00372 2-keto-4-pentenoate hydratase
+>Gibb_00380 Cupin domain protein
+>Gibb_00382 Membrane transport protein
+>Gibb_00395 Ferredoxin--NADP reductase
+>Gibb_00403 putative oxidoreductase CzcO
+>Gibb_00413 HTH-type transcriptional regulator DmlR
+>Gibb_00414 Alcohol dehydrogenase
+>Gibb_00436 putative HTH-type transcriptional regulator YbbH
+>Gibb_00438 Ferredoxin fas2
+>Gibb_00442 IS2 transposase TnpB
+>Gibb_00443 Oligo-1,6-glucosidase
+>Gibb_00447 PTS system mannose-specific EIIAB component
+>Gibb_00449 4-hydroxy-tetrahydrodipicolinate synthase
+>Gibb_00458 putative efflux pump outer membrane protein TtgC precursor
+>Gibb_00491 Capsule biosynthesis protein CapA
+>Gibb_00492 putative amino-acid-binding protein YxeM precursor
+>Gibb_00496 ABC transporter periplasmic-binding protein YtfQ precursor
+>Gibb_00499 Ribose transport system permease protein RbsC
+>Gibb_00516 Lipopolysaccharide export system ATP-binding protein LptB
+>Gibb_00521 hypothetical protein
+>Gibb_00531 Glutamine transport ATP-binding protein GlnQ
+>Gibb_00536 Putative phosphonates utilization ATP-binding protein PhnK
+>Gibb_00547 Transcriptional regulatory protein RcsA
+>Gibb_00548 Protein DsrB
+>Gibb_00555 Inner membrane protein YjiY
+>Gibb_00556 hypothetical protein
+>Gibb_00566 putative quorum-quenching lactonase YtnP
+>Gibb_00568 Purine ribonucleoside efflux pump NepI
+>Gibb_00575 Cryptic outer membrane porin BglH precursor
+>Gibb_00579 Transcription antiterminator LicT
+>Gibb_00591 HTH-type transcriptional regulator SrpR
+>Gibb_00602 N-acyltransferase YncA
+>Gibb_00609 Xylose isomerase
+>Gibb_00610 2-dehydropantoate 2-reductase
+>Gibb_00611 Glucuronide carrier protein
+>Gibb_00612 Unsaturated rhamnogalacturonyl hydrolase YesR
+>Gibb_00616 putative xanthine dehydrogenase subunit A
+>Gibb_00620 HTH-type transcriptional repressor NicR
+>Gibb_00626 KDP operon transcriptional regulatory protein KdpE
+>Gibb_00634 3-oxoacyl-[acyl-carrier-protein] synthase 2
+>Gibb_00640 3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+>Gibb_00641 putative acyl--CoA ligase YhfT
+>Gibb_00646 hypothetical protein
+>Gibb_00651 General stress protein 69
+>Gibb_00652 SMP-30/Gluconolaconase/LRE-like region
+>Gibb_00677 putative transporter YfdV
+>Gibb_00684 Ribose transport system permease protein RbsC
+>Gibb_00690 hypothetical protein
+>Gibb_00694 Alcohol dehydrogenase [acceptor]
+>Gibb_00696 Electron transfer flavoprotein subunit alpha
+>Gibb_00711 hypothetical protein
+>Gibb_00730 L-cysteate sulfo-lyase
+>Gibb_00735 putative oxidoreductase YbiC
+>Gibb_00743 Cytochrome c-553 precursor
+>Gibb_00745 Inner membrane protein YeeA
+>Gibb_00752 Low-affinity putrescine importer PlaP
+>Gibb_00757 Iron(3+)-hydroxamate import ATP-binding protein FhuC
+>Gibb_00761 hypothetical protein
+>Gibb_00762 Endonuclease 4
+>Gibb_00763 Alcohol dehydrogenase 1
+>Gibb_00773 putative GTP-binding protein YjiA
+>Gibb_00779 Inner membrane ABC transporter permease protein YejB
+>Gibb_00781 Glutathione import ATP-binding protein GsiA
+>Gibb_00782 hypothetical protein
+>Gibb_00786 Nucleoid-associated protein YejK
+>Gibb_00787 hypothetical protein
+>Gibb_00795 Leucine-responsive regulatory protein
+>Gibb_00803 Glutathione-binding protein GsiB precursor
+>Gibb_00804 Gamma-glutamylputrescine oxidoreductase
+>Gibb_00805 (S)-2-haloacid dehalogenase 4A
+>Gibb_00809 Osmotically-inducible lipoprotein E precursor
+>Gibb_00815 Outer membrane protein C precursor
+>Gibb_00817 hypothetical protein
+>Gibb_00821 Putative undecaprenyl-diphosphatase YbjG
+>Gibb_00831 Histidinol dehydrogenase
+>Gibb_00840 Cupin domain protein
+>Gibb_00843 Fe(3+)-citrate-binding protein YfmC precursor
+>Gibb_00856 haloacid dehalogenase-like hydrolase
+>Gibb_00861 dTDP-4-dehydrorhamnose reductase
+>Gibb_00862 dTDP-4-dehydrorhamnose 3,5-epimerase
+>Gibb_00869 Putative isomerase YitF
+>Gibb_00873 dTDP-4-dehydrorhamnose 3,5-epimerase
+>Gibb_00886 Polysialic acid transport protein KpsD precursor
+>Gibb_00899 Periplasmic binding proteins and sugar binding domain of LacI family protein
+>Gibb_00903 2-hydroxypropyl-CoM lyase
+>Gibb_00919 GTP cyclohydrolase 1
+>Gibb_00922 S-(hydroxymethyl)glutathione dehydrogenase
+>Gibb_00939 Cyclic di-GMP phosphodiesterase YhjH
+>Gibb_00940 Transcriptional activator protein BglJ
+>Gibb_00944 High-affinity choline transport protein
+>Gibb_00951 Outer membrane protein X precursor
+>Gibb_00955 DNA protection during starvation protein
+>Gibb_00966 Tautomerase enzyme
+>Gibb_00967 Carboxymuconolactone decarboxylase family protein
+>Gibb_00968 Endo-polygalacturonase precursor
+>Gibb_00989 leucine/isoleucine/valine transporter permease subunit
+>Gibb_00992 HTH-type transcriptional regulator LutR
+>Gibb_00998 Methionine import system permease protein MetP
+>Gibb_01001 Multiple stress resistance protein BhsA precursor
+>Gibb_01009 Diaminopimelate epimerase
+>Gibb_01017 Glycine cleavage system transcriptional activator
+>Gibb_01021 D-alanine--D-alanine ligase A
+>Gibb_01022 D-lactate dehydrogenase
+>Gibb_01023 Inner membrane protein YohC
+>Gibb_01027 Nodulation protein NolA
+>Gibb_01028 Phosphinothricin N-acetyltransferase
+>Gibb_01029 Inner membrane protein YedI
+>Gibb_01031 Adenosylhomocysteinase
+>Gibb_01035 hypothetical protein
+>Gibb_01036 tRNA-dihydrouridine synthase C
+>Gibb_01042 Inner membrane transport permease YbhS
+>Gibb_01043 Inner membrane transport permease YbhR
+>Gibb_01044 hypothetical protein
+>Gibb_01051 Cyclic pyranopterin monophosphate synthase
+>Gibb_01059 ATP-dependent dethiobiotin synthetase BioD 1
+>Gibb_01061 8-amino-7-oxononanoate synthase
+>Gibb_01078 Negative regulator of SacY activity
+>Gibb_01081 Galactose-1-phosphate uridylyltransferase
+>Gibb_01088 Quinolinate synthase A
+>Gibb_01090 Putative L-lactate dehydrogenase operon regulatory protein
+>Gibb_01093 hypothetical protein
+>Gibb_01100 Peptidoglycan-associated lipoprotein precursor
+>Gibb_01117 Succinate dehydrogenase cytochrome b556 subunit
+>Gibb_01118 Citrate synthase
+>Gibb_01119 Endonuclease 8
+>Gibb_01129 hypothetical protein
+>Gibb_01143 Ribonucleotide monophosphatase NagD
+>Gibb_01152 Antitoxin HigA
+>Gibb_01158 (Dimethylallyl)adenosine tRNA methylthiotransferase MiaB
+>Gibb_01159 hypothetical protein
+>Gibb_01160 L-ribulose-5-phosphate 4-epimerase
+>Gibb_01168 Apolipoprotein N-acyltransferase
+>Gibb_01178 DNA polymerase III subunit delta
+>Gibb_01181 Ribosomal RNA large subunit methyltransferase H
+>Gibb_01186 hypothetical protein
+>Gibb_01188 hypothetical protein
+>Gibb_01197 Cold shock-like protein
+>Gibb_01201 hypothetical protein
+>Gibb_01203 Glycerol dehydrogenase
+>Gibb_01205 Glutathione import ATP-binding protein GsiA
+>Gibb_01221 hypothetical protein
+>Gibb_01226 Protein YceI
+>Gibb_01231 hypothetical protein
+>Gibb_01235 putative deoxyribonuclease RhsB
+>Gibb_01238 hypothetical protein
+>Gibb_01240 hypothetical protein
+>Gibb_01247 hypothetical protein
+>Gibb_01248 hypothetical protein
+>Gibb_01250 hypothetical protein
+>Gibb_01254 Bifunctional protein FolD protein
+>Gibb_01256 Cysteine--tRNA ligase
+>Gibb_01259 N5-carboxyaminoimidazole ribonucleotide mutase
+>Gibb_01269 HTH-type transcriptional regulator CueR
+>Gibb_01277 Inosine-guanosine kinase
+>Gibb_01282 Adenylate kinase
+>Gibb_01288 Adenine phosphoribosyltransferase
+>Gibb_01294 Multidrug efflux pump subunit AcrA precursor
+>Gibb_01301 hypothetical protein
+>Gibb_01303 Modulating protein YmoA
+>Gibb_01308 hypothetical protein
+>Gibb_01309 Acyl-CoA thioesterase 2
+>Gibb_01311 Nitrogen regulatory protein P-II 2
+>Gibb_01319 Long-chain acyl-CoA thioesterase FadM
+>Gibb_01323 Lon protease
+>Gibb_01325 ATP-dependent Clp protease ATP-binding subunit ClpX
+>Gibb_01329 Trigger factor
+>Gibb_01330 transcriptional regulator BolA
+>Gibb_01333 Cytochrome bo(3) ubiquinol oxidase subunit 2 precursor
+>Gibb_01336 Cytochrome bo(3) ubiquinol oxidase subunit 4
+>Gibb_01337 Protoheme IX farnesyltransferase
+>Gibb_01338 Inner membrane transport protein YajR
+>Gibb_01347 Thiamine-monophosphate kinase
+>Gibb_01348 N utilization substance protein B
+>Gibb_01349 6,7-dimethyl-8-ribityllumazine synthase
+>Gibb_01362 Proline-specific permease ProY
+>Gibb_01367 Phosphate regulon transcriptional regulatory protein PhoB
+>Gibb_01378 Shikimate kinase 2
+>Gibb_01398 Transposase, Mutator family
+>Gibb_01421 Spermidine/putrescine import ATP-binding protein PotA
+>Gibb_01428 HTH-type transcriptional regulator RpiR
+>Gibb_01444 putative D,D-dipeptide-binding periplasmic protein DdpA precursor
+>Gibb_01447 putative D,D-dipeptide transport system permease protein DdpC
+>Gibb_01457 Inner membrane amino-acid ABC transporter permease protein YecS
+>Gibb_01458 Argininosuccinate lyase
+>Gibb_01459 DNA-binding transcriptional regulator OxyR
+>Gibb_01473 Mov34/MPN/PAD-1 family protein
+>Gibb_01475 putative adenylyltransferase/sulfurtransferase MoeZ
+>Gibb_01488 HTH-type transcriptional activator CmpR
+>Gibb_01498 Putative aliphatic sulfonates transport permease protein SsuC
+>Gibb_01499 Diguanylate cyclase DosC
+>Gibb_01504 Glycerol-3-phosphate regulon repressor
+>Gibb_01505 Diacetyl reductase [(S)-acetoin forming]
+>Gibb_01508 putative ABC transporter-binding protein precursor
+>Gibb_01510 Anaerobic C4-dicarboxylate transporter DcuA
+>Gibb_01512 Fructosamine deglycase FrlB
+>Gibb_01513 putative HTH-type transcriptional regulator YurK
+>Gibb_01514 Toxin-antitoxin biofilm protein TabA
+>Gibb_01517 Glyoxylate/hydroxypyruvate reductase B
+>Gibb_01520 L-idonate 5-dehydrogenase (NAD(P)(+))
+>Gibb_01521 Thermoresistant gluconokinase
+>Gibb_01524 Glutathione S-transferase GstB
+>Gibb_01530 Transcriptional activator protein EsaR
+>Gibb_01534 Ribose transport system permease protein RbsC
+>Gibb_01538 hypothetical protein
+>Gibb_01540 hypothetical protein
+>Gibb_01546 Redox-sensitive transcriptional activator SoxR
+>Gibb_01552 hypothetical protein
+>Gibb_01554 Multidrug export protein AcrE precursor
+>Gibb_01560 hypothetical protein
+>Gibb_01561 Phenylacetaldoxime dehydratase
+>Gibb_01565 Transcriptional regulatory protein UhpA
+>Gibb_01570 Type-1 fimbrial protein, A chain precursor
+>Gibb_01571 Chaperone protein PapD precursor
+>Gibb_01590 Methionine aminotransferase
+>Gibb_01596 Uric acid transporter UacT
+>Gibb_01601 Glutamine transport ATP-binding protein GlnQ
+>Gibb_01608 Biuret hydrolase
+>Gibb_01615 Transcriptional regulatory protein DpiA
+>Gibb_01617 Citrate/malate transporter
+>Gibb_01619 [Citrate [pro-3S]-lyase] ligase
+>Gibb_01620 Citrate lyase acyl carrier protein
+>Gibb_01632 flagellar assembly protein J
+>Gibb_01635 Roadblock/LC7 domain protein
+>Gibb_01638 hypothetical protein
+>Gibb_01641 TadE-like protein
+>Gibb_01646 Ribonuclease HI
+>Gibb_01663 P-protein
+>Gibb_01664 T-protein
+>Gibb_01665 Phospho-2-dehydro-3-deoxyheptonate aldolase, Tyr-sensitive
+>Gibb_01667 hypothetical protein
+>Gibb_01673 30S ribosomal protein S16
+>Gibb_01675 Inner membrane protein YpjD
+>Gibb_01677 S-ribosylhomocysteine lyase
+>Gibb_01679 Glutamate--cysteine ligase
+>Gibb_01688 Regulatory protein RecX
+>Gibb_01694 NADH oxidase
+>Gibb_01700 Gamma-glutamylputrescine oxidoreductase
+>Gibb_01701 Spermidine/putrescine-binding periplasmic protein precursor
+>Gibb_01703 Putative 2-aminoethylphosphonate transport system permease protein PhnV
+>Gibb_01707 RNA polymerase sigma factor RpoS
+>Gibb_01709 Protein-L-isoaspartate O-methyltransferase
+>Gibb_01710 5'/3'-nucleotidase SurE
+>Gibb_01718 Inner membrane protein YgbE
+>Gibb_01721 Sulfate adenylyltransferase subunit 2
+>Gibb_01727 6-carboxy-5,6,7,8-tetrahydropterin synthase
+>Gibb_01737 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+>Gibb_01739 Iron-sulfur cluster insertion protein ErpA
+>Gibb_01742 Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+>Gibb_01751 8-oxo-dGTP diphosphatase
+>Gibb_01755 UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+>Gibb_01756 Cell division protein FtsZ
+>Gibb_01757 Cell division protein FtsA
+>Gibb_01764 Phospho-N-acetylmuramoyl-pentapeptide-transferase
+>Gibb_01765 UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+>Gibb_01768 Cell division protein FtsL
+>Gibb_01770 Protein MraZ
+>Gibb_01772 Catabolite repressor/activator
+>Gibb_01773 Acetolactate synthase isozyme 3 small subunit
+>Gibb_01785 hypothetical protein
+>Gibb_01789 Sulfate transport system permease protein CysW
+>Gibb_01802 Protein ApaG
+>Gibb_01804 Dihydrofolate reductase
+>Gibb_01805 hypothetical protein
+>Gibb_01807 Threonine efflux protein
+>Gibb_01821 Chaperone protein DnaK
+>Gibb_01830 putative tRNA/rRNA methyltransferase
+>Gibb_01833 hypothetical protein
+>Gibb_01836 Non-canonical purine NTP phosphatase
+>Gibb_01837 Trp operon repressor
+>Gibb_01839 hypothetical protein
+>Gibb_01842 putative ABC transporter ATP-binding protein YjjK
+>Gibb_01843 hypothetical protein
+>Gibb_01845 Zinc-type alcohol dehydrogenase-like protein
+>Gibb_01846 Trifunctional NAD biosynthesis/regulator protein NadR
+>Gibb_01849 hypothetical protein
+>Gibb_01850 Purine nucleoside phosphorylase DeoD-type
+>Gibb_01853 Deoxyribose-phosphate aldolase
+>Gibb_01854 hypothetical protein
+>Gibb_01869 hypothetical protein
+>Gibb_01870 Diguanylate cyclase DosC
+>Gibb_01874 putative L,D-transpeptidase YbiS precursor
+>Gibb_01875 Outer membrane protein assembly factor BamB
+>Gibb_01882 SCP-2 sterol transfer family protein
+>Gibb_01889 putative transport protein HsrA
+>Gibb_01895 30S ribosomal protein S15
+>Gibb_01898 Ribosome-binding factor A
+>Gibb_01900 hypothetical protein
+>Gibb_01910 RNA-binding protein YhbY
+>Gibb_01911 Transcription elongation factor GreA
+>Gibb_01918 Octaprenyl-diphosphate synthase
+>Gibb_01921 Malate dehydrogenase
+>Gibb_01924 UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase
+>Gibb_01926 Inorganic pyrophosphatase
+>Gibb_01927 Gamma-glutamylcyclotransferase family protein YtfP
+>Gibb_01931 Magnesium and cobalt efflux protein CorC
+>Gibb_01933 Thiol-disulfide oxidoreductase ResA
+>Gibb_01939 30S ribosomal protein S18
+>Gibb_01950 Modulator of FtsH protease HflK
+>Gibb_01955 N-acetylmuramoyl-L-alanine amidase AmiB precursor
+>Gibb_01956 tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+>Gibb_01957 Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+>Gibb_01961 Ferrous iron transport protein A
+>Gibb_01966 Outer membrane protein TolC precursor
+>Gibb_01969 Glutamine transport ATP-binding protein GlnQ
+>Gibb_01970 Inner membrane amino-acid ABC transporter permease protein YecS
+>Gibb_01971 Cystine-binding periplasmic protein precursor
+>Gibb_01974 Ascorbate-specific phosphotransferase enzyme IIB component
+>Gibb_01976 hypothetical protein
+>Gibb_01979 putative aldolase YihT
+>Gibb_01982 cytosine permease
+>Gibb_01990 EthD protein
+>Gibb_01992 hypothetical protein
+>Gibb_01995 Multidrug export protein EmrB
+>Gibb_01999 2-deoxyglucose-6-phosphatase
+>Gibb_02000 hypothetical protein
+>Gibb_02005 HTH-type transcriptional regulator YjdC
+>Gibb_02006 Thiol:disulfide interchange protein DsbD precursor
+>Gibb_02015 Inner membrane protein YjcH
+>Gibb_02019 hypothetical protein
+>Gibb_02020 Leucine-responsive regulatory protein
+>Gibb_02025 Cystine-binding periplasmic protein precursor
+>Gibb_02028 HTH-type transcriptional regulator GltC
+>Gibb_02030 putative allantoin permease
+>Gibb_02031 Alcohol dehydrogenase [acceptor]
+>Gibb_02032 Non-haem bromoperoxidase BPO-A2
+>Gibb_02040 Catabolite repressor/activator
+>Gibb_02045 L-fucose isomerase
+>Gibb_02062 Nucleoside triphosphatase NudI
+>Gibb_02074 hypothetical protein
+>Gibb_02077 NADH pyrophosphatase
+>Gibb_02080 Phosphomethylpyrimidine synthase
+>Gibb_02082 Sulfur carrier protein ThiS adenylyltransferase
+>Gibb_02083 Sulfur carrier protein ThiS
+>Gibb_02086 putative HTH-type transcriptional regulator YjiR
+>Gibb_02087 hypothetical protein
+>Gibb_02089 DNA-directed RNA polymerase subunit beta'
+>Gibb_02092 50S ribosomal protein L7/L12
+>Gibb_02096 hypothetical protein
+>Gibb_02097 Protein translocase subunit SecE
+>Gibb_02098 Elongation factor Tu
+>Gibb_02107 UDP-N-acetylenolpyruvoylglucosamine reductase
+>Gibb_02114 Protoporphyrinogen IX dehydrogenase [menaquinone]
+>Gibb_02115 Trk system potassium uptake protein TrkH
+>Gibb_02128 putative protein kinase UbiB
+>Gibb_02133 Alpha-ribazole phosphatase
+>Gibb_02145 Fructose-like phosphotransferase enzyme IIB component 1
+>Gibb_02148 HTH-type transcriptional regulator GltR
+>Gibb_02150 hypothetical protein
+>Gibb_02157 High-affinity branched-chain amino acid transport ATP-binding protein LivF
+>Gibb_02158 Lipopolysaccharide export system ATP-binding protein LptB
+>Gibb_02165 4-hydroxy-tetrahydrodipicolinate synthase
+>Gibb_02166 putative HTH-type transcriptional regulator RhmR
+>Gibb_02167 RNA polymerase sigma factor RpoH
+>Gibb_02168 Cell division protein FtsX
+>Gibb_02171 Ribosomal RNA small subunit methyltransferase D
+>Gibb_02173 hypothetical protein
+>Gibb_02174 YhhN-like protein
+>Gibb_02177 Inner membrane protein YhhQ
+>Gibb_02181 Anaerobic glycerol-3-phosphate dehydrogenase subunit A
+>Gibb_02182 Glycerol-3-phosphate transporter
+>Gibb_02188 HTH-type transcriptional regulator LutR
+>Gibb_02189 L-galactonate transporter
+>Gibb_02191 Xylulose kinase
+>Gibb_02195 Homoserine/homoserine lactone efflux protein
+>Gibb_02201 Putative ammonia monooxygenase
+>Gibb_02203 hypothetical protein
+>Gibb_02207 hypothetical protein
+>Gibb_02208 Diaminopimelate epimerase
+>Gibb_02209 hypothetical protein
+>Gibb_02211 Adenylate cyclase
+>Gibb_02215 putative protoheme IX biogenesis protein
+>Gibb_02227 dTDP-4-amino-4,6-dideoxygalactose transaminase
+>Gibb_02233 hypothetical protein
+>Gibb_02236 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+>Gibb_02253 Dipeptide transport system permease protein DppB
+>Gibb_02255 Inner membrane protein YagU
+>Gibb_02260 Transcriptional regulatory protein UhpA
+>Gibb_02261 Phosphoethanolamine transferase EptB
+>Gibb_02264 Bifunctional (p)ppGpp synthase/hydrolase relA
+>Gibb_02271 Decarboxylase NovR
+>Gibb_02272 Cystine-binding periplasmic protein precursor
+>Gibb_02273 Phytanoyl-CoA dioxygenase (PhyH)
+>Gibb_02276 hypothetical protein
+>Gibb_02279 hypothetical protein
+>Gibb_02291 hypothetical protein
+>Gibb_02302 mRNA interferase RelE
+>Gibb_02303 hypothetical protein
+>Gibb_02309 Putative aliphatic sulfonates-binding protein precursor
+>Gibb_02310 Putative aliphatic sulfonates transport permease protein SsuC
+>Gibb_02315 Putative aliphatic sulfonates transport permease protein SsuC
+>Gibb_02323 Acyl-homoserine-lactone synthase
+>Gibb_02324 Transcriptional activator protein EsaR
+>Gibb_02331 Xylose isomerase-like TIM barrel
+>Gibb_02335 Alpha-amylase precursor
+>Gibb_02338 Small heat shock protein IbpB
+>Gibb_02344 Sugar phosphatase YidA
+>Gibb_02346 DNA replication and repair protein RecF
+>Gibb_02348 Chromosomal replication initiator protein DnaA
+>Gibb_02355 NADPH azoreductase
+>Gibb_02359 Inner membrane amino-acid ABC transporter permease protein YecS
+>Gibb_02363 Phosphate import ATP-binding protein PstB
+>Gibb_02365 Phosphate transport system permease protein PstC
+>Gibb_02376 ATP synthase subunit c
+>Gibb_02378 ATP synthase protein I
+>Gibb_02383 Protein ViaA
+>Gibb_02384 ATPase RavA
+>Gibb_02387 Ribose import ATP-binding protein RbsA
+>Gibb_02391 Ribose operon repressor
+>Gibb_02392 putative transport protein HsrA
+>Gibb_02393 Pyruvate dehydrogenase complex repressor
+>Gibb_02401 hypothetical protein
+>Gibb_02410 Oxygen-independent coproporphyrinogen-III oxidase
+>Gibb_02413 Glutamine synthetase
+>Gibb_02415 Alpha-D-glucose-1-phosphate phosphatase YihX
+>Gibb_02423 Bifunctional (p)ppGpp synthase/hydrolase SpoT
+>Gibb_02427 hypothetical protein
+>Gibb_02432 N-carbamoyl-L-amino acid hydrolase
+>Gibb_02434 Inner membrane amino-acid ABC transporter permease protein YecS
+>Gibb_02436 Cystine-binding periplasmic protein precursor
+>Gibb_02441 Putative peptidoglycan binding domain protein
+>Gibb_02442 Reverse transcriptase (RNA-dependent DNA polymerase)
+>Gibb_02444 hypothetical protein
+>Gibb_02445 hypothetical protein
+>Gibb_02447 Integrase core domain protein
+>Gibb_02449 hypothetical protein
+>Gibb_02450 hypothetical protein
+>Gibb_02451 hypothetical protein
+>Gibb_02453 hypothetical protein
+>Gibb_02455 hypothetical protein
+>Gibb_02457 hypothetical protein
+>Gibb_02460 DNA-binding transcriptional regulator Nlp
+>Gibb_02466 Orotate phosphoribosyltransferase
+>Gibb_02468 Deoxyuridine 5'-triphosphate nucleotidohydrolase
+>Gibb_02470 hypothetical protein
+>Gibb_02471 50S ribosomal protein L28
+>Gibb_02472 50S ribosomal protein L33
+>Gibb_02477 Lipopolysaccharide core heptosyltransferase RfaQ
+>Gibb_02487 ADP-heptose--LPS heptosyltransferase 2
+>Gibb_02495 Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+>Gibb_02500 Periplasmic protein CpxP precursor
+>Gibb_02501 Oxalate:formate antiporter
+>Gibb_02505 Sulfate-binding protein precursor
+>Gibb_02510 Fructose-1,6-bisphosphatase 1 class 2
+>Gibb_02518 Cell division protein FtsN
+>Gibb_02519 HTH-type transcriptional repressor CytR
+>Gibb_02522 Met repressor
+>Gibb_02525 5,10-methylenetetrahydrofolate reductase
+>Gibb_02527 putative transporter YycB
+>Gibb_02539 tRNA/tmRNA (uracil-C(5))-methyltransferase
+>Gibb_02552 hypothetical protein
+>Gibb_02555 Acetolactate synthase isozyme 2 large subunit
+>Gibb_02562 Ketol-acid reductoisomerase
+>Gibb_02566 CDP-diacylglycerol pyrophosphatase
+>Gibb_02570 hypothetical protein
+>Gibb_02571 Bacterial regulatory proteins, tetR family
+>Gibb_02572 osmolarity response regulator
+>Gibb_02573 Autoinducer 2 sensor kinase/phosphatase LuxQ
+>Gibb_02575 Glycosyltransferase family 9 (heptosyltransferase)
+>Gibb_02579 HIT domain protein
+>Gibb_02581 Ribosomal RNA small subunit methyltransferase J
+>Gibb_02582 Glycerol-3-phosphate regulon repressor
+>Gibb_02583 Rhomboid protease GlpG
+>Gibb_02584 Ribokinase
+>Gibb_02585 4-hydroxy-tetrahydrodipicolinate synthase
+>Gibb_02587 L-galactonate transporter
+>Gibb_02589 hypothetical protein
+>Gibb_02590 HTH-type transcriptional regulator UlaR
+>Gibb_02597 L-ribulose-5-phosphate 4-epimerase UlaF
+>Gibb_02606 High-affinity gluconate transporter
+>Gibb_02611 hypothetical protein
+>Gibb_02612 putative ABC transporter ATP-binding protein YbbL
+>Gibb_02618 PTS system mannose-specific EIIBCA component
+>Gibb_02619 Phosphoenolpyruvate-protein phosphotransferase
+>Gibb_02621 Outer membrane pore protein E precursor
+>Gibb_02625 Universal stress protein B
+>Gibb_02628 Ribose import ATP-binding protein RbsA
+>Gibb_02629 Ribose transport system permease protein RbsC
+>Gibb_02632 Arabinose 5-phosphate isomerase KpsF
+>Gibb_02634 Maltodextrin phosphorylase
+>Gibb_02635 4-alpha-glucanotransferase
+>Gibb_02641 Transcriptional regulatory protein OmpR
+>Gibb_02643 Toxin FitB
+>Gibb_02645 Phosphoenolpyruvate carboxykinase [ATP]
+>Gibb_02648 GMP/IMP nucleotidase YrfG
+>Gibb_02656 Type IV pilus biogenesis and competence protein PilQ precursor
+>Gibb_02677 cAMP-activated global transcriptional regulator CRP
+>Gibb_02678 hypothetical protein
+>Gibb_02686 hypothetical protein
+>Gibb_02698 Ribose-phosphate pyrophosphokinase
+>Gibb_02702 Glutathione-regulated potassium-efflux system protein KefC
+>Gibb_02703 translation initiation factor IF-2 subunit beta
+>Gibb_02707 YheO-like PAS domain protein
+>Gibb_02708 Sulfurtransferase TusD
+>Gibb_02712 30S ribosomal protein S7
+>Gibb_02714 Elongation factor Tu
+>Gibb_02717 30S ribosomal protein S10
+>Gibb_02718 50S ribosomal protein L3
+>Gibb_02719 50S ribosomal protein L4
+>Gibb_02720 50S ribosomal protein L23
+>Gibb_02721 50S ribosomal protein L2
+>Gibb_02722 30S ribosomal protein S19
+>Gibb_02723 50S ribosomal protein L22
+>Gibb_02724 30S ribosomal protein S3
+>Gibb_02725 50S ribosomal protein L16
+>Gibb_02728 50S ribosomal protein L14
+>Gibb_02729 50S ribosomal protein L24
+>Gibb_02730 50S ribosomal protein L5
+>Gibb_02732 30S ribosomal protein S8
+>Gibb_02735 30S ribosomal protein S5
+>Gibb_02737 Protein translocase subunit SecY
+>Gibb_02740 30S ribosomal protein S4
+>Gibb_02741 DNA-directed RNA polymerase subunit alpha
+>Gibb_02744 HTH-type transcriptional regulator ZntR
+>Gibb_02750 Peptide deformylase
+>Gibb_02752 Protein Smg
+>Gibb_02753 DNA topoisomerase 1
+>Gibb_02774 Isocitrate dehydrogenase kinase/phosphatase
+>Gibb_02776 Phosphogluconate dehydratase
+>Gibb_02789 Lysine-sensitive aspartokinase 3
+>Gibb_02791 Glucose-6-phosphate isomerase
+>Gibb_02792 putative lipoprotein GfcB precursor
+>Gibb_02806 Glycerol-3-phosphate acyltransferase
+>Gibb_02808 LexA repressor
+>Gibb_02810 hypothetical protein
+>Gibb_02811 Zinc uptake regulation protein
+>Gibb_02812 Helix-turn-helix
+>Gibb_02817 Replicative DNA helicase
+>Gibb_02822 L-rhamnose isomerase
+>Gibb_02828 Cyclohexadienyl dehydratase precursor
+>Gibb_02830 hypothetical protein
+>Gibb_02834 Maltose O-acetyltransferase
+>Gibb_02840 L-cystine-binding protein TcyJ precursor
+>Gibb_02843 L-cystine import ATP-binding protein TcyN
+>Gibb_02844 Maltose/maltodextrin import ATP-binding protein MalK
+>Gibb_02845 Cyclodextrin-binding protein precursor
+>Gibb_02848 Arabinogalactan endo-1,4-beta-galactosidase precursor
+>Gibb_02859 Holin-like protein CidA
+>Gibb_02867 DNA-binding protein Fis
+>Gibb_02869 Carbonic anhydrase precursor
+>Gibb_02871 Sodium/pantothenate symporter
+>Gibb_02872 hypothetical protein
+>Gibb_02873 Biotin carboxylase
+>Gibb_02880 Rod shape-determining protein MreB
+>Gibb_02891 Magnesium-transporting ATPase, P-type 1
+>Gibb_02898 D-galactonate transporter
+>Gibb_02903 hypothetical protein
+>Gibb_02905 Enamine/imine deaminase
+>Gibb_02922 L-fucose-proton symporter
+>Gibb_02929 hypothetical protein
+>Gibb_02930 hypothetical protein
+>Gibb_02936 recombination protein F
+>Gibb_02940 Pyrimidine-specific ribonucleoside hydrolase RihA
+>Gibb_02941 Autoinducer 2-binding protein LsrB precursor
+>Gibb_02942 Ribokinase
+>Gibb_02952 Enterobactin synthase component F
+>Gibb_02953 hypothetical protein
+>Gibb_02958 putative transporter YfdV
+>Gibb_02968 Transposase IS116/IS110/IS902 family protein
+>Gibb_02970 hypothetical protein
+>Gibb_02971 Chaperone protein EcpD precursor
+>Gibb_02976 Transcriptional regulatory protein RcsB
+>Gibb_02981 D-ribose-binding periplasmic protein precursor
+>Gibb_02982 Ribose transport system permease protein RbsC
+>Gibb_02985 (S)-sulfolactate dehydrogenase
+>Gibb_02986 5-keto-4-deoxy-D-glucarate aldolase
+>Gibb_02989 3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase
+>Gibb_02990 Inosose dehydratase
+>Gibb_02993 Galactose/methyl galactoside import ATP-binding protein MglA
+>Gibb_02994 Fructokinase
+>Gibb_03007 Glycine oxidase
+>Gibb_03023 Soluble cytochrome b562 precursor
+>Gibb_03024 Fructose-bisphosphate aldolase
+>Gibb_03026 Heat-responsive suppressor HrsA
+>Gibb_03028 PRD domain protein
+>Gibb_03034 L-seryl-tRNA(Sec) selenium transferase
+>Gibb_03039 Dephospho-CoA kinase
+>Gibb_03044 Lipopolysaccharide export system protein LptA precursor
+>Gibb_03046 3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+>Gibb_03047 Arabinose 5-phosphate isomerase KdsD
+>Gibb_03051 putative phospholipid ABC transporter-binding protein MlaD
+>Gibb_03056 Serine endoprotease DegS
+>Gibb_03061 30S ribosomal protein S9
+>Gibb_03064 HTH-type transcriptional repressor GlcR
+>Gibb_03068 (Dimethylallyl)adenosine tRNA methylthiotransferase MiaB
+>Gibb_03071 Enhancing lycopene biosynthesis protein 2
+>Gibb_03075 hypothetical protein
+>Gibb_03083 Putative transposon Tn552 DNA-invertase bin3
+>Gibb_03086 hypothetical protein
+>Gibb_03088 HTH-type transcriptional activator AllS
+>Gibb_03089 Glutathionyl-hydroquinone reductase YqjG
+>Gibb_03090 Inner membrane protein YqjF
+>Gibb_03098 Inner membrane protein YgjV
+>Gibb_03099 Inner membrane protein alx
+>Gibb_03103 WLM domain protein
+>Gibb_03104 Ribosomal RNA large subunit methyltransferase G
+>Gibb_03106 HTH-type transcriptional regulatory protein GabR
+>Gibb_03109 putative N-acetyltransferase YafP
+>Gibb_03128 5-methylcytosine-specific restriction enzyme B
+>Gibb_03130 hypothetical protein
+>Gibb_03131 IS2 transposase TnpB
+>Gibb_03132 hypothetical protein
+>Gibb_03133 hypothetical protein
+>Gibb_03135 hypothetical protein
+>Gibb_03142 30S ribosomal protein S21
+>Gibb_03145 putative glycerol-3-phosphate acyltransferase
+>Gibb_03147 Undecaprenyl-diphosphatase
+>Gibb_03153 Membrane fusogenic activity
+>Gibb_03158 Levansucrase
+>Gibb_03159 Putative acid--amine ligase YgiC
+>Gibb_03173 Modulator of drug activity B
+>Gibb_03176 Cell division protein FtsP precursor
+>Gibb_03177 2,5-diketo-D-gluconic acid reductase A
+>Gibb_03182 Cystathionine beta-lyase MetC
+>Gibb_03187 Mannose permease IID component
+>Gibb_03191 Levodione reductase
+>Gibb_03202 Efflux pump membrane transporter BepE
+>Gibb_03204 HTH-type transcriptional regulator MatA
+>Gibb_03205 ChuX-like family protein
+>Gibb_03209 Transposase IS116/IS110/IS902 family protein
+>Gibb_03210 Acetyltransferase (GNAT) family protein
+>Gibb_03218 Sulfite reductase [NADPH] flavoprotein alpha-component
+>Gibb_03220 Leucine-responsive regulatory protein
+>Gibb_03228 Na(+)-translocating NADH-quinone reductase subunit A
+>Gibb_03229 Na(+)-translocating NADH-quinone reductase subunit B
+>Gibb_03237 Xanthine phosphoribosyltransferase
+>Gibb_03238 2,6-dihydropseudooxynicotine hydrolase
+>Gibb_03239 Sigma factor-binding protein Crl
+>Gibb_03246 hypothetical protein
+>Gibb_03247 hypothetical protein
+>Gibb_03253 Membrane-bound lytic murein transglycosylase C precursor
+>Gibb_03257 hypothetical protein
+>Gibb_03260 Oxygen-independent coproporphyrinogen-III oxidase 1
+>Gibb_03261 dITP/XTP pyrophosphatase
+>Gibb_03262 hypothetical protein
+>Gibb_03263 YGGT family protein
+>Gibb_03264 Pyrroline-5-carboxylate reductase
+>Gibb_03266 Twitching mobility protein
+>Gibb_03268 hypothetical protein
+>Gibb_03294 S-adenosylmethionine decarboxylase proenzyme precursor
+>Gibb_03310 RNA polymerase-binding transcription factor DksA
+>Gibb_03318 Iron(3+)-hydroxamate import system permease protein FhuB
+>Gibb_03319 Antitoxin HipB
+>Gibb_03329 Putative monooxygenase
+>Gibb_03340 putative 5-formyltetrahydrofolate cyclo-ligase
+>Gibb_03361 Lysine--tRNA ligase
+>Gibb_03369 Alpha/beta hydrolase family protein
+>Gibb_03372 Cupin domain protein
+>Gibb_03373 Sensor kinase CusS
+>Gibb_03382 HTH-type transcriptional regulator YofA
+>Gibb_03383 N(1)-aminopropylagmatine ureohydrolase
+>Gibb_03393 Phosphoserine aminotransferase
+>Gibb_03399 Glutathionyl-hydroquinone reductase YqjG
+>Gibb_03405 L-lactate dehydrogenase [cytochrome]
+>Gibb_03406 HTH-type transcriptional regulator DmlR
+>Gibb_03410 HTH-type transcriptional regulator DmlR
+>Gibb_03417 hypothetical protein
+>Gibb_03419 Nuclease-related domain protein
+>Gibb_03424 General stress protein 69
+>Gibb_03426 Integral membrane protein TerC family protein
+>Gibb_03427 DNA mismatch repair protein MutH
+>Gibb_03432 hypothetical protein
+>Gibb_03437 Protease 3 precursor
+>Gibb_03448 putative lipoprotein YgdR precursor
+>Gibb_03458 Helix-turn-helix domain protein
+>Gibb_03459 hypothetical protein
+>Gibb_03462 ribosomal-protein-alanine N-acetyltransferase
+>Gibb_03470 Methionine aminopeptidase
+>Gibb_03475 Ribosome-recycling factor
+>Gibb_03480 Outer membrane protein assembly factor BamA precursor
+>Gibb_03481 Chaperone protein Skp precursor
+>Gibb_03482 UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+>Gibb_03489 Lysine decarboxylase, constitutive
+>Gibb_03492 Cytochrome c-554(548)
+>Gibb_03493 Rho-binding antiterminator
+>Gibb_03495 Peptidyl-tRNA hydrolase ArfB
+>Gibb_03496 Lipoprotein NlpE precursor
+>Gibb_03497 Proline--tRNA ligase
+>Gibb_03510 Alpha-ketoglutarate permease
+>Gibb_03512 CDP-diacylglycerol--serine O-phosphatidyltransferase
+>Gibb_03516 23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+>Gibb_03525 Glycine betaine-binding periplasmic protein precursor
+>Gibb_03526 Glycine betaine-binding periplasmic protein precursor
+>Gibb_03528 Glycine betaine/L-proline transport ATP-binding protein ProV
+>Gibb_03535 p-aminobenzoyl-glutamate hydrolase subunit B
+>Gibb_03540 2-hydroxy-6-oxononadienedioate/2-hydroxy-6-oxononatrienedioate hydrolase
+>Gibb_03544 hypothetical protein
+>Gibb_03547 hypothetical protein
+>Gibb_03550 Cyclic di-GMP-binding protein precursor
+>Gibb_03558 hypothetical protein
+>Gibb_03560 HTH-type transcriptional regulator CynR
+>Gibb_03562 Acetylornithine deacetylase
+>Gibb_03568 putative HTH-type transcriptional regulator YdfH
+>Gibb_03569 IS2 transposase TnpB
+>Gibb_03570 Transposase
+>Gibb_03577 hypothetical protein
+>Gibb_03583 Prophage CP4-57 integrase
+>Gibb_03585 SsrA-binding protein
+>Gibb_03587 Persistence and stress-resistance antitoxin PasI
+>Gibb_03588 Outer membrane protein assembly factor BamE precursor
+>Gibb_03593 Autonomous glycyl radical cofactor
+>Gibb_03597 ECF RNA polymerase sigma-E factor
+>Gibb_03602 Elongation factor 4
+>Gibb_03605 Ribonuclease 3
+>Gibb_03606 GTPase Era
+>Gibb_03610 putative ferredoxin-like protein YfhL
+>Gibb_03612 hypothetical protein
+>Gibb_03617 Membrane-bound lytic murein transglycosylase F precursor
+>Gibb_03621 Sensor histidine kinase QseE
+>Gibb_03624 Glutamine-dependent NAD(+) synthetase
+>Gibb_03630 Inner membrane ABC transporter permease protein YdcU
+>Gibb_03633 protoporphyrinogen oxidase
+>Gibb_03635 Flavohemoprotein
+>Gibb_03645 Iron-binding protein IscA
+>Gibb_03647 Chaperone protein HscA
+>Gibb_03648 2Fe-2S ferredoxin
+>Gibb_03649 hypothetical protein
+>Gibb_03650 Peptidase B
+>Gibb_03653 Penicillin-binding protein 1F
+>Gibb_03667 Prophage CP4-57 integrase
+>Gibb_03668 hypothetical protein
+>Gibb_03682 Ribose transport system permease protein RbsC
+>Gibb_03684 hypothetical protein
+>Gibb_03685 D-ribose-binding periplasmic protein precursor
+>Gibb_03688 Glutamine transport ATP-binding protein GlnQ
+>Gibb_03693 Leucine-responsive regulatory protein
+>Gibb_03696 HTH-type transcriptional regulator YofA
+>Gibb_03713 3-keto-5-aminohexanoate cleavage enzyme
+>Gibb_03716 Acetate CoA-transferase subunit beta
+>Gibb_03717 Hexose phosphate transport protein
+>Gibb_03718 Acetyl-CoA acetyltransferase
+>Gibb_03719 Porin B precursor
+>Gibb_03720 Putative oxidoreductase YdbC
+>Gibb_03729 Trehalose transport system permease protein SugA
+>Gibb_03737 Maltose/maltodextrin import ATP-binding protein MalK
+>Gibb_03747 Integrase core domain protein
+>Gibb_03773 hypothetical protein
+>Gibb_03790 Fructose-bisphosphate aldolase class 1
+>Gibb_03795 putative zinc-type alcohol dehydrogenase-like protein YjmD
+>Gibb_03796 Starvation-sensing protein RspA
+>Gibb_03800 tryptophanyl-tRNA synthetase
+>Gibb_03802 Signal transduction histidine-protein kinase BaeS
+>Gibb_03804 Multidrug resistance protein MdtC
+>Gibb_03806 Multidrug resistance protein MdtA precursor
+>Gibb_03807 Chaperone protein DnaK
+>Gibb_03811 Cyclic di-GMP phosphodiesterase YfgF
+>Gibb_03814 Phosphate transport system permease protein PstC
+>Gibb_03819 Spermidine N(1)-acetyltransferase
+>Gibb_03822 hypothetical protein
+>Gibb_03831 hypothetical protein
+>Gibb_03838 AI-2 transport protein TqsA
+>Gibb_03839 Putative peroxiredoxin bcp
+>Gibb_03842 Outer membrane protein assembly factor BamC precursor
+>Gibb_03853 Regulatory protein Spx
+>Gibb_03855 hypothetical protein
+>Gibb_03862 Periplasmic nitrate reductase precursor
+>Gibb_03868 Ribose-5-phosphate isomerase B
+>Gibb_03873 Bifunctional PGK/TIM
+>Gibb_03874 Sorbitol operon regulator
+>Gibb_03876 Transaldolase
+>Gibb_03884 N-acetylmuramoyl-L-alanine amidase AmiA precursor
+>Gibb_03891 Acetate operon repressor
+>Gibb_03893 hypothetical protein
+>Gibb_03895 RpoE-regulated lipoprotein
+>Gibb_03897 Thiosulfate-binding protein precursor
+>Gibb_03903 Macrolide export protein MacA
+>Gibb_03908 Phosphocarrier protein HPr
+>Gibb_03917 Alpha-acetolactate decarboxylase
+>Gibb_03920 MbtH-like protein
+>Gibb_03926 Ferrienterobactin-binding periplasmic protein precursor
+>Gibb_03930 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase
+>Gibb_03934 Hemin-binding periplasmic protein HmuT precursor
+>Gibb_03935 Hemin import ATP-binding protein HmuV
+>Gibb_03962 HTH-type transcriptional activator AllS
+>Gibb_03970 Sensor histidine kinase YpdA
+>Gibb_03979 Formate dehydrogenase, nitrate-inducible, cytochrome b556(Fdn) subunit
+>Gibb_03980 putative HTH-type transcriptional regulator YbbH
+>Gibb_03981 D-xylose-proton symporter
+>Gibb_03985 HTH-type transcriptional activator RhaS
+>Gibb_04000 Major exported protein
+>Gibb_04003 Phage-related baseplate assembly protein
+>Gibb_04006 hypothetical protein
+>Gibb_04008 hypothetical protein
+>Gibb_04009 Intracellular multiplication and human macrophage-killing
+>Gibb_04010 hypothetical protein
+>Gibb_04011 hypothetical protein
+>Gibb_04013 hypothetical protein
+>Gibb_04014 Type VI secretion lipoprotein
+>Gibb_04015 Gene 25-like lysozyme
+>Gibb_04027 Cytochrome c-type biogenesis protein CcmH precursor
+>Gibb_04029 Long-chain fatty acid transport protein precursor
+>Gibb_04040 YfcL protein
+>Gibb_04056 Inner membrane protein YqjA
+>Gibb_04061 Amidophosphoribosyltransferase
+>Gibb_04062 3-octaprenyl-4-hydroxybenzoate carboxy-lyase partner protein
+>Gibb_04063 Histidine-binding periplasmic protein precursor
+>Gibb_04067 Epimerase family protein
+>Gibb_04073 Ascorbate-specific phosphotransferase enzyme IIA component
+>Gibb_04076 Transketolase
+>Gibb_04085 Integrase core domain protein
+>Gibb_04090 NADH-quinone oxidoreductase subunit C/D
+>Gibb_04100 NADH-quinone oxidoreductase subunit M
+>Gibb_04108 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+>Gibb_04118 Ribonucleoside-diphosphate reductase 1 subunit alpha
+>Gibb_04137 Inner membrane protein YbjO
+>Gibb_04138 23S rRNA (uracil(747)-C(5))-methyltransferase RlmC
+>Gibb_04140 Arginine ABC transporter permease protein ArtM
+>Gibb_04150 Vitamin B12 transporter BtuB precursor
+>Gibb_04158 DNA replication and repair protein RecF
+>Gibb_04162 Translation initiation factor IF-1
+>Gibb_04167 Leucine-responsive regulatory protein
+>Gibb_04173 putative MFS-type transporter YcaD
+>Gibb_04178 Phosphoserine aminotransferase
+>Gibb_04182 30S ribosomal protein S1
+>Gibb_04189 Cold shock-like protein CspE
+>Gibb_04192 3-deoxy-manno-octulosonate cytidylyltransferase
+>Gibb_04202 Aspartate aminotransferase
+>Gibb_04204 Asparagine--tRNA ligase
+>Gibb_04209 Aliphatic sulfonates import ATP-binding protein SsuB
+>Gibb_04218 Paraquat-inducible protein B
+>Gibb_04220 3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase
+>Gibb_04221 Lon protease 1
+>Gibb_04222 Macrodomain Ter protein
+>Gibb_04231 CoA binding domain protein
+>Gibb_04232 Heat shock protein HspQ
+>Gibb_04251 hypothetical protein
+>Gibb_04254 Response regulator UvrY
+>Gibb_04290 putative galactarate transporter
+>Gibb_04296 Integrase core domain protein
+>Gibb_04305 Dibenzothiophene desulfurization enzyme C
+>Gibb_04320 L-Ala-D/L-Glu epimerase
+>Gibb_04326 mRNA interferase PemK
+>Gibb_04336 HTH-type transcriptional activator RhaS
+>Gibb_04348 Hemophore HasA
+>Gibb_04353 Benzylsuccinate synthase activating enzyme
+>Gibb_04356 Spermidine N(1)-acetyltransferase
+>Gibb_04357 putative membrane protein YjcC
+>Gibb_04365 Putative aliphatic sulfonates transport permease protein SsuC
+>Gibb_04383 Oligogalacturonate-specific porin KdgM precursor
+>Gibb_04421 hypothetical protein
+>Gibb_04431 Citrate transporter
+>Gibb_04433 Catabolite control protein A
+>Gibb_04440 Type II secretion system protein D precursor
+>Gibb_04445 Putative type II secretion system protein I precursor
+>Gibb_04447 Putative type II secretion system protein K
+>Gibb_04449 Type II secretion system protein M
+>Gibb_04464 Cystine-binding periplasmic protein precursor
+>Gibb_04470 2-(S)-hydroxypropyl-CoM dehydrogenase
+>Gibb_04472 Integrase core domain protein
+>Gibb_04479 putative HTH-type transcriptional regulator YbbH
+>Gibb_04480 N(1)-aminopropylagmatine ureohydrolase
+>Gibb_04485 Glutamine transport ATP-binding protein GlnQ
+>Gibb_04501 DsrE/DsrF-like family protein
+>Gibb_04502 Aliphatic nitrilase
+>Gibb_04506 hypothetical protein
+>Gibb_04514 Competence protein J (ComJ)
+>Gibb_04520 Transposase
+>Gibb_04527 hypothetical protein
+>Gibb_04528 Phage-related baseplate assembly protein
+>Gibb_04531 hypothetical protein
+>Gibb_04541 hypothetical protein
+>Gibb_04545 hypothetical protein
+>Gibb_04546 hypothetical protein
+>Gibb_04548 hypothetical protein
+>Gibb_04555 OriC-binding nucleoid-associated protein
+>Gibb_04557 Cystine-binding periplasmic protein precursor
+>Gibb_04561 Sodium/proline symporter
+>Gibb_04576 Phage late control gene D protein (GPD)
+>Gibb_04578 Sodium/proton antiporter ChaA
+>Gibb_04585 Oligopeptide transport ATP-binding protein OppD
+>Gibb_04592 Acyltransferase family protein
+>Gibb_04608 putative glycosyltransferase EpsJ
+>Gibb_04609 GalNAc(5)-diNAcBac-PP-undecaprenol beta-1,3-glucosyltransferase
+>Gibb_04622 putative cell wall hydrolase LytN precursor
+>Gibb_04623 hypothetical protein
+>Gibb_04629 hypothetical protein
+>Gibb_04631 Aromatic amino acid transport protein AroP
+>Gibb_04635 Cold shock-like protein CspC
+>Gibb_04642 PTS system mannose-specific EIIAB component
+>Gibb_04648 hypothetical protein
+>Gibb_04662 DNA polymerase III subunit theta
+>Gibb_04675 Transposase IS200 like protein
+>Gibb_04679 Excinuclease cho
+>Gibb_04693 N-formylglutamate amidohydrolase
+>Gibb_04722 hypothetical protein
+>Gibb_04723 Ribosomal RNA small subunit methyltransferase F
+>Gibb_04735 Inner membrane protein YdjM
+>Gibb_04736 2-deoxyglucose-6-phosphate phosphatase
+>Gibb_04744 Gluconate 2-dehydrogenase subunit 3 precursor
+>Gibb_04759 Integration host factor subunit alpha
+>Gibb_04762 Mandelate racemase
+>Gibb_04770 UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+>Gibb_04774 Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase
+>Gibb_04780 hypothetical protein
+>Gibb_04790 putative FAD-linked oxidoreductase
+>Gibb_04805 CRISPR-associated nuclease/helicase Cas3 subtype I-F/YPEST
+>Gibb_04831 Ferri-bacillibactin esterase BesA
+>Gibb_04840 HTH-type transcriptional activator AllS
+>Gibb_04846 Superoxide dismutase [Fe]
+>Gibb_04850 Lactoylglutathione lyase
+>Gibb_04851 HTH-type transcriptional regulator CynR
+>Gibb_04869 hypothetical protein
+>Gibb_04871 Prolyl endopeptidase
+>Gibb_04872 Dipeptide and tripeptide permease A
+>Gibb_04903 Acetyltransferase (GNAT) family protein
+>Gibb_04907 hypothetical protein
+>Gibb_04921 Elongation factor G
+>Gibb_04924 hypothetical protein
+>Gibb_04941 Aspartate aminotransferase
+>Gibb_04945 PTS system galactitol-specific transporter subunit IIA
+>Gibb_04946 Galactitol-specific phosphotransferase enzyme IIB component
+>Gibb_04949 D-tagatose-1,6-bisphosphate aldolase subunit KbaY
+>Gibb_04967 hypothetical protein
+>Gibb_04968 hypothetical protein
+>Gibb_04970 hypothetical protein
+>Gibb_04974 HTH-type transcriptional regulator GltC
+>Gibb_04977 Arginine transport system permease protein ArtQ
+>Gibb_05005 putative chromate transport protein
+>Gibb_05008 Pyridoxine kinase
+>Gibb_05011 2-acyl-glycerophospho-ethanolamine acyltransferase
+>Gibb_05024 Transposase IS200 like protein
+>Gibb_05029 Sensor protein RstB
+>Gibb_05069 HTH-type transcriptional regulator YdeO
+>Gibb_05076 translation initiation factor Sui1
+>Gibb_05081 Phosphatidylglycerophosphatase B
+>Gibb_05082 GTP cyclohydrolase-2
+>Gibb_05083 Aconitate hydratase 1
+>Gibb_05091 hypothetical protein
+>Gibb_05102 Outer membrane protein W precursor
+>Gibb_05111 Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+>Gibb_05112 DNA protection during starvation protein
+>Gibb_05123 Thymidine kinase
+>Gibb_05124 DNA-binding protein H-NS
